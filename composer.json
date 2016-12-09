@@ -1,0 +1,19 @@
+{
+    "name": "fedorov-aleksey/yii2-widgets",
+    "version": "v1.0.0",
+    "description": "",
+    "authors": [
+        {
+            "name": "Fedorov Aleksey",
+            "email": "fav@equifax.ru"
+        }
+    ],
+    required: {
+    	"phpoffice/phpexcel": "*"
+    },
+    "autoload": {
+        "psr-4" : {
+            "fav\\widgets\\" : ""
+        }
+    }
+}
